@@ -1,4 +1,4 @@
-package com.example.testrecyclerview;
+package com.example.RecycleViewPlanets;
 
 import org.junit.Test;
 
